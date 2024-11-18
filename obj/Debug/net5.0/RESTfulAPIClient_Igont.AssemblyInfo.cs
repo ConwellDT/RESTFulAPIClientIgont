@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RESTfulAPIClient_Igont")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e1c393ce76c33bf9af742a189fc541b34f7b4cbe")]
 [assembly: System.Reflection.AssemblyProductAttribute("RESTfulAPIClient_Igont")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RESTfulAPIClient_Igont")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

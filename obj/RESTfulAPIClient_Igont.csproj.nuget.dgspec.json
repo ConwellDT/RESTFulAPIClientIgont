@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\project\\WCS_RESTfulAPI\\RESTfulAPIClient_Igont\\RESTfulAPIClient_Igont.csproj": {}
+    "D:\\GitHub\\RESTfulAPIClient_Igont\\RESTfulAPIClient_Igont.csproj": {}
   },
   "projects": {
-    "D:\\project\\WCS_RESTfulAPI\\RESTfulAPIClient_Igont\\RESTfulAPIClient_Igont.csproj": {
+    "D:\\GitHub\\RESTfulAPIClient_Igont\\RESTfulAPIClient_Igont.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\project\\WCS_RESTfulAPI\\RESTfulAPIClient_Igont\\RESTfulAPIClient_Igont.csproj",
+        "projectUniqueName": "D:\\GitHub\\RESTfulAPIClient_Igont\\RESTfulAPIClient_Igont.csproj",
         "projectName": "RESTfulAPIClient_Igont",
-        "projectPath": "D:\\project\\WCS_RESTfulAPI\\RESTfulAPIClient_Igont\\RESTfulAPIClient_Igont.csproj",
+        "projectPath": "D:\\GitHub\\RESTfulAPIClient_Igont\\RESTfulAPIClient_Igont.csproj",
         "packagesPath": "C:\\Users\\FA0121\\.nuget\\packages\\",
-        "outputPath": "D:\\project\\WCS_RESTfulAPI\\RESTfulAPIClient_Igont\\obj\\",
+        "outputPath": "D:\\GitHub\\RESTfulAPIClient_Igont\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 23.2\\Components\\Offline Packages",

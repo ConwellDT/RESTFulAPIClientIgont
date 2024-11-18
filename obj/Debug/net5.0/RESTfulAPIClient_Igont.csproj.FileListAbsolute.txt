@@ -1,0 +1,12 @@
+D:\GitHub\RESTfulAPIClient_Igont\bin\Debug\net5.0\RESTfulAPIClient_Igont.deps.json
+D:\GitHub\RESTfulAPIClient_Igont\bin\Debug\net5.0\RESTfulAPIClient_Igont.dll
+D:\GitHub\RESTfulAPIClient_Igont\bin\Debug\net5.0\RESTfulAPIClient_Igont.pdb
+D:\GitHub\RESTfulAPIClient_Igont\obj\Debug\net5.0\RESTfulAPIClient_Igont.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\RESTfulAPIClient_Igont\obj\Debug\net5.0\RESTfulAPIClient_Igont.AssemblyInfoInputs.cache
+D:\GitHub\RESTfulAPIClient_Igont\obj\Debug\net5.0\RESTfulAPIClient_Igont.AssemblyInfo.cs
+D:\GitHub\RESTfulAPIClient_Igont\obj\Debug\net5.0\RESTfulAPIClient_Igont.csproj.CoreCompileInputs.cache
+D:\GitHub\RESTfulAPIClient_Igont\obj\Debug\net5.0\RESTfulAPIClient_Igont.sourcelink.json
+D:\GitHub\RESTfulAPIClient_Igont\obj\Debug\net5.0\RESTfulAPIClient_Igont.dll
+D:\GitHub\RESTfulAPIClient_Igont\obj\Debug\net5.0\refint\RESTfulAPIClient_Igont.dll
+D:\GitHub\RESTfulAPIClient_Igont\obj\Debug\net5.0\RESTfulAPIClient_Igont.pdb
+D:\GitHub\RESTfulAPIClient_Igont\obj\Debug\net5.0\ref\RESTfulAPIClient_Igont.dll
