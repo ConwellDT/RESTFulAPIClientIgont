@@ -28,7 +28,7 @@ namespace RESTfulAPIClient_Igont
                 HttpWebRequest request = (HttpWebRequest)WebRequest.Create(uri);
                 request.Method = method;// "GET" / "POST";
                 request.Timeout = Timeout;// - 1;// 30 * 1000; // 30초
-          
+
 
                 using (HttpWebResponse resp = (HttpWebResponse)request.GetResponse())
                 {
